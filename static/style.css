@@ -38,7 +38,7 @@ body {
 
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #1ebba3;
+    color: #ff9259;
 }
 
 
@@ -100,13 +100,13 @@ body {
     padding: .6rem 1.2rem;
     margin: 1rem;
     color: white;
-    background-color: #1ebba3;
-    border-color: #1ebba3;
+    background-color: #ff9259;
+    border-color: #ff9259;
 }
 
 .btn-secondary:hover {
-    background-color: #189582;
-    border-color: #189582;
+    background-color: #330174;
+    border-color: #330174;
 }
 
 
@@ -128,12 +128,12 @@ h3.heading {
 .heading-underline {
     width: 3rem;
     height: .2rem;
-    background-color: #1ebba3;
+    background-color: #ff9259;
     margin: 0 auto 2rem;
 }
 
 .feature svg.svg-inline--fa {
-    color: #1ebba1;
+    color: #ff9259;
 }
 
 .feature h3 {
@@ -177,12 +177,12 @@ h3.heading {
 }
 
 blockquote .svg-inline--fa {
-    color: #1ebba3;
+    color: #ff9259;
     margin: 1rem;
 }
 
 .clients-hr {
-    border-top: .05rem solid #1ebba3;
+    border-top: .05rem solid #ff9259;
 }
 
 
@@ -210,7 +210,7 @@ footer svg.svg-inline--fa {
 }
 
 footer svg.svg-inline--fa:hover {
-    color: #1ebba3!important;
+    color: #ff9259!important;
 }
 
 hr.socket {
